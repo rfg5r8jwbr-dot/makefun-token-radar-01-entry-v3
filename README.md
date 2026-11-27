@@ -1,8 +1,8 @@
 # Token Radar — pre-token protocols ranked by implied value
 
 [![make.fun](https://make.fun/badge/token-radar-01.svg)](https://make.fun/bounty/token-radar-01?ref=4q7hssxn)
-[![rank](https://make.fun/badge/token-radar-01/rfg5r8jwbr-dot/makefun-token-radar-01-entry/rank.svg)](https://make.fun/bounty/token-radar-01?ref=4q7hssxn)
-[![reward](https://make.fun/badge/token-radar-01/rfg5r8jwbr-dot/makefun-token-radar-01-entry/reward.svg)](https://make.fun/bounty/token-radar-01?ref=4q7hssxn)
+[![rank](https://make.fun/badge/token-radar-01/rfg5r8jwbr-dot/makefun-token-radar-01-entry-v3/rank.svg)](https://make.fun/bounty/token-radar-01?ref=4q7hssxn)
+[![reward](https://make.fun/badge/token-radar-01/rfg5r8jwbr-dot/makefun-token-radar-01-entry-v3/reward.svg)](https://make.fun/bounty/token-radar-01?ref=4q7hssxn)
 
 A token launch radar built for the make.fun bounty [token-radar-01](https://make.fun/bounty/token-radar-01?ref=4q7hssxn). It reads the sealed DefiLlama snapshot (758 protocols, snapshot 2026-11-14), finds the protocols that record no token, ranks them by an implied token value, and shows a reader how to farm each one — all in an offline static dashboard.
 
